@@ -20,3 +20,9 @@ other is working on developing new features.
 They are a easy way to understand the history of the commits that make the
 branch. This makes it easy to understand where we are on the entire branch
 or branches structure.
+
+6. What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+You'll end up with only 1 branch that has the entire history of commits of
+both the original branches. All this commits can be reached through this
+merged branch.
