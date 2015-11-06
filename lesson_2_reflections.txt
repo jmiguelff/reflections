@@ -26,3 +26,8 @@ it in the diagram the way we do?
 You'll end up with only 1 branch that has the entire history of commits of
 both the original branches. All this commits can be reached through this
 merged branch.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic merging can lead to bad choices. Git may not understand the intent
+of the developers that create the changes and may choose a wrong version as
+the one to stay. Doing all merges manually is bothersome.
