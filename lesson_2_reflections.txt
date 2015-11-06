@@ -1,8 +1,17 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
-How is staging area different from the working directory and the repository?
+2. How is staging area different from the working directory and the repository?
 What value do you think it offers?
 
-How can you use the staging area to make sure you have one commit per logical change?
+3. How can you use the staging area to make sure you have one commit per logical change?
 Because we can control which files we are commiting by previous selecting 
 them to go the staging area.
+
+4. What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+When you want to experiment new things like developing new features you 
+don't know if are going to work you can create a branch. It acts like a
+copy of the source code you are working. It won't mess the master branch
+where the working code is kept. This is also helpful when you have 2 teams
+and one is responsible for code maintenance and product support and the 
+other is working on developing new features.
