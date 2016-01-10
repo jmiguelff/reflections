@@ -10,3 +10,14 @@ I prefer manually pull because I can have some commits that are not prepared to 
 consumed by other people. So although I want to have some historic of my development process
 I may not want other people to have access to it before I have the rest of the work
 done.
+
+Describe the differences betweein forks, clones and branches. When would you use
+one instead of another?
+
+- FORKS: Used to copy a project to you repository in order to make changes that
+		 you would like to push to the main project repository,
+		 
+- CLONES: Copy the repository to your local machine
+
+- BRANCH: Create a new path for the commit tree of a repository. Used when working
+		  on a new feature and you don't want to disrupt the master branch.
