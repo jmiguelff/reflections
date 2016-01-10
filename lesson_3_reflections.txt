@@ -21,3 +21,8 @@ one instead of another?
 
 - BRANCH: Create a new path for the commit tree of a repository. Used when working
 		  on a new feature and you don't want to disrupt the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Enables offline working...
+
