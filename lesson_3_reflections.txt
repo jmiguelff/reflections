@@ -31,3 +31,10 @@ How would you collaborate without using Git or Github? What would be easier, and
 Probably use e-mail or some kind of thread style site. The initial setup should be fairly easier
 but it would be to difficult to keep all the changes. Also it would be difficult to understand who
 broke the code and where.
+
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+You will almost always change stuff on your branch faster and than merge it with the master. The
+only exception is when you are fixing small bugs that you are 100% sure it won't break the code.
+Pushing directly to the master is faster however you may break the entire code.
